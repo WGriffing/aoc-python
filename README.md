@@ -1,7 +1,7 @@
 Forked from https://github.com/marcelblijleven/adventofcode
 
 # Advent of Code ⭐️
-[![Stars collected](https://shields.io/static/v1?label=stars%20collected&message=6&color=yellow)]()
+[![Stars collected](https://shields.io/static/v1?label=stars%20collected&message=8&color=yellow)]()
 [![codecov](https://codecov.io/gh/marcelblijleven/adventofcode/branch/master/graph/badge.svg?token=jZ2TgfyltM)](https://codecov.io/gh/marcelblijleven/adventofcode)
 [![tests](https://github.com/marcelblijleven/adventofcode/actions/workflows/tests.yaml/badge.svg)](https://github.com/marcelblijleven/adventofcode)
 [![version](https://img.shields.io/github/v/release/marcelblijleven/adventofcode.svg)](https://github.com/marcelblijleven/adventofcode/releases)
@@ -40,6 +40,7 @@ Collection of my Advent of Code solutions in an overkill project setup 👻🎄.
 | 01 | ⭐️ | ⭐️ |
 | 02 | ⭐️ | ⭐️ |
 | 03 | ⭐️ | ⭐️ |
+| 04 | ⭐️ | ⭐️ |
 
 </p>
 </details>
@@ -55,12 +56,14 @@ Collection of my Advent of Code solutions in an overkill project setup 👻🎄.
 
 |  day  | part  | duration |
 | :---: | :---: | -------: |
-| 01 | part one | 1.32 ms |
-| 01 | part two | 8.26 ms |
-| 02 | part one | 2.75 ms |
-| 02 | part two | 2.41 ms |
-| 03 | part one | 98.10 ms |
-| 03 | part two | 54.36 ms |
+| 01 | part one | 1.05 ms |
+| 01 | part two | 6.91 ms |
+| 02 | part one | 3.31 ms |
+| 02 | part two | 2.54 ms |
+| 03 | part one | 98.82 ms |
+| 03 | part two | 56.39 ms |
+| 04 | part one | 2.58 ms |
+| 04 | part two | 2.60 ms |
 
 </p>
 </details>
